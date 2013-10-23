@@ -18,7 +18,7 @@ Features
 Installation
 ---------------
 
-.. warning:: The following steps will wipe your current Sublime Text settings!
+**Warning:** The following steps will wipe your current Sublime Text settings!
 
 .. code-block :: bash
 
